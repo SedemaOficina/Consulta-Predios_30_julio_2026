@@ -34,7 +34,7 @@ export default defineConfig({
     server: {
         port: 3000,
     },
-    base: '/Visor_3/',
+    base: '/Consulta-Predios_30_julio_2026/',
     build: {
         outDir: 'docs',
         // The static zoning/boundary GeoJSON bundle is legitimately large
