@@ -1,5 +1,10 @@
 # Visor de Consulta Ciudadana (V-3)
 
+[![CI](https://github.com/SedemaOficina/Consulta-Predios_30_julio_2026/actions/workflows/ci.yml/badge.svg)](https://github.com/SedemaOficina/Consulta-Predios_30_julio_2026/actions/workflows/ci.yml)
+[![Deploy](https://github.com/SedemaOficina/Consulta-Predios_30_julio_2026/actions/workflows/deploy.yml/badge.svg)](https://github.com/SedemaOficina/Consulta-Predios_30_julio_2026/actions/workflows/deploy.yml)
+
+🌐 **Sitio en vivo:** https://sedemaoficina.github.io/Consulta-Predios_30_julio_2026/
+
 Aplicación web para la consulta de normatividad urbana y ambiental de la Ciudad de México (SEDEMA). Dado un punto en el mapa (por clic, búsqueda de dirección o coordenadas), determina el tipo de suelo (Conservación / Urbano), la zonificación PGOEDF, si cae en un Área Natural Protegida (ANP) y qué actividades están permitidas o prohibidas, con opción de exportar una Ficha Informativa en PDF.
 
 ## Arquitectura
