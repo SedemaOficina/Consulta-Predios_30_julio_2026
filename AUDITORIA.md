@@ -209,8 +209,8 @@ Mezcla helpers de mapa estático, `QrCodeImg`, constantes de estilo, la plantill
 
 `MapViewer.jsx:185-216` (`addCoreLayer`) vs `:273-299` (`addLayer`) — estilo/hover/tooltip duplicados. **Fix:** unificar en `createGeoLayer(...)`.
 
-### M17 · `MapViewer.jsx` grande (548 líneas) — 🟡 PARCIAL (2026-07-30)
-> Extraídos `escapeHtml`, `bindColoredTooltip` y `createGeoLayer` a `utils/leafletHelpers.js`; MapViewer bajó a **492 líneas**. La descomposición completa de los 6 `useEffect` imperativos en hooks (`useMapInit`, `useZoningLayers`, …) se **difiere**: es alto riesgo sin poder verificar el mapa visualmente. Recomendado hacerlo con QA visual.
+### M17 · `MapViewer.jsx` grande (548 líneas) — ✅ RESUELTO (2026-07-30)
+> Primero se extrajeron `escapeHtml`/`bindColoredTooltip`/`createGeoLayer` a `utils/leafletHelpers.js`. Luego, **toda la lógica imperativa** (refs, estado y los 6 `useEffect` de Leaflet) se movió — verbatim, sin cambios de comportamiento — al hook `src/components/map/useMapViewer.js`. `MapViewer.jsx` quedó como componente presentacional de **24 líneas**. Verificado: lint 0, 31 tests, build OK. *(Recomendado: QA visual del mapa en el sitio en vivo — init, capas, marcador, zoom, click.)*
 
 6 `useEffect` imperativos de Leaflet + helpers inline. **Fix:** extraer `utils/leafletHelpers.js` y hooks (`useMapInit`, `useZoningLayers`, `useLocationMarker`).
 
