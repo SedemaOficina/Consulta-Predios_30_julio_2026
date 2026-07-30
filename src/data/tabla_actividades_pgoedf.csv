@@ -1,0 +1,119 @@
+﻿Sector,Actividad general,Actividad específica,AEE,AE,AFE,AF,FPE,FP,FCE,FC
+Agrícola,Intensiva,Cultivos básicos y forrajeros,A,A,A,A,A,P,P,P
+Agrícola,Intensiva,Uso de agroquímicos,A,A,A,A,P,P,P,P
+Agrícola,Extensiva,Cultivos básicos y forrajeros,A,A,A,P,P,P,P,P
+Agrícola,Extensiva,Uso de agroquímicos,A,A,A,A,P,P,P,P
+Agrícola,Tecnologías y métodos,Tradicional,A,A,A,A,A,P,P,P
+Agrícola,Tecnologías y métodos,Uso de maquinaria,A,A,A,P,P,P,P,P
+Agrícola,Tecnologías y métodos,Quemas,P,P,P,P,P,P,P,P
+Agrícola,Tecnologías y métodos,Construcción de bordos,A,A,A,A,P,P,P,P
+Agrícola,Tecnologías y métodos,Construcción de terrazas,A,A,A,P,P,P,P,P
+Agrícola,Tecnologías y métodos,Deshierbe,A,A,A,P,P,P,P,P
+Agrícola,Mejoramiento de suelos,Prácticas agroecológicas,A,A,A,A,A,P,P,P
+Agrícola,Mejoramiento de suelos,Pesticidas y herbicidas,P,P,P,P,P,P,P,P
+Agrícola,Mejoramiento de suelos,Abonos orgánicos y lombricultura,A,A,A,A,A,A,A,A
+Pecuario,Ganadería,Libre,A,A,A,P,P,P,P,P
+Pecuario,Ganadería,Semiestabulado,P,A,A,A,A,P,P,P
+Pecuario,Ganadería,Estabulado,P,A,A,A,A,P,P,P
+Pecuario,Ganadería,Quemas,P,P,P,P,P,P,P,P
+Pecuario,Ganadería,Introducción de especies exóticas forrajeras,A,A,A,A,A,P,P,P
+Pecuario,Ganadería,Uso de excretas para mejoramiento de suelos,A,A,A,A,A,A,A,P
+Pecuario,Ganadería,Deshierbe,A,A,A,P,P,P,P,P
+Pecuario,Ganadería,Deshecho de excretas y residuos,P,A,A,P,P,P,P,P
+Pecuario,Apicultura,Apicultura,A,A,A,A,A,A,A,A
+Forestal,Maderable,Leña para uso doméstico y cultural,A,A,A,A,A,A,A,A
+Forestal,Maderable,Plantaciones comerciales,A,A,A,A,A,P,P,P
+Forestal,Maderable,Roturación,A,A,A,A,P,P,P,P
+Forestal,Maderable,Desmonte,P,P,P,P,P,P,P,P
+Forestal,No maderable,"Extracción de tierra de monte, tierra de hoja *",A,A,A,A,A,A,A,A
+Forestal,No maderable,Extracción de pasto,P,P,P,P,P,P,P,P
+Forestal,No maderable,"Extracción de resinas, gomas, ceras y raíces",A,A,A,A,A,P,P,P
+Forestal,No maderable,"Recolección para autoconsumo de hongos, frutos, semillas, partes vegetativas y especímenes",A,A,A,A,A,A,A,A
+Forestal,No maderable,Producción de hongos,A,A,A,A,A,A,A,A
+Forestal,No maderable,"Colecta de frutos, semillas, partes vegetativas y especímenes para reproducción y restauración",A,A,A,A,A,A,A,A
+Forestal,No maderable,Producción de carbón vegetal,P,P,P,P,P,P,P,P
+Forestal,Restauración,Reforestación con especies nativas y propias de los ecosistemas,A,A,A,A,A,A,A,A
+Forestal,Restauración,Introducción de especies exóticas y no nativas,P,P,P,P,P,P,P,P
+Forestal,Restauración,Estabilización de cárcavas,A,A,A,A,A,A,A,A
+Forestal,Restauración,Obras de conservación de suelo y agua,A,A,A,A,A,A,A,A
+Forestal,"Control y  prevención de incendios,       plagas       y enfermedades",Limpia y saneamiento,A,A,A,A,A,A,A,A
+Forestal,"Control y  prevención de incendios,       plagas       y enfermedades",Procesamiento y transformación de material producto de limpias y saneamientos,A,A,A,A,A,A,A,A
+Forestal,"Control y  prevención de incendios,       plagas       y enfermedades","Brechas cortafuego, líneas negras, quemas controladas y prescritas",A,A,A,A,A,A,A,A
+Forestal,"Control y  prevención de incendios,       plagas       y enfermedades",Quemas,P,P,P,P,P,P,P,P
+Forestal,"Control y  prevención de incendios,       plagas       y enfermedades",Uso de químicos,A,A,A,A,A,A,A,A
+Forestal,"Control y  prevención de incendios,       plagas       y enfermedades",Control biológico,A,A,A,A,A,A,A,A
+Forestal,"Control y  prevención de incendios,       plagas       y enfermedades",Chaponeo,A,A,A,A,A,A,A,A
+Agro- forestería,Comercial y de Autoconsumo,"Agrosilvícola, silvipastoril y agrosilvipastoril",A,A,A,A,A,P,P,P
+Acuacultura,Tradicional y comercial,Piscícultura,A,A,A,A,A,A,A,A
+Acuacultura,Tradicional y comercial,Modificación de cauces,P,P,P,P,P,P,P,P
+Acuacultura,Tradicional y comercial,Construcción de bordos y represas,A,A,A,A,A,A,A,A
+Acuacultura,Tradicional y comercial,Manejo de sustancias químicas,P,A,P,P,P,P,P,P
+Vida silvestre,Autoconsumo,Establecimiento de criaderos,A,A,A,A,A,A,A,A
+Vida silvestre,Autoconsumo,Caza,P,P,P,P,P,P,P,P
+Vida silvestre,Autoconsumo,Producción de especies de flora silvestre,A,A,A,A,A,A,A,A
+Vida silvestre,Autoconsumo,Recolección de especies,A,A,A,A,A,A,A,A
+Vida silvestre,Comercial,Cinegéticas,P,P,P,P,P,P,P,P
+Vida silvestre,Comercial,Cría de especies locales,A,A,A,A,A,A,A,P
+Vida silvestre,Comercial,Encierros de fauna silvestre,A,A,A,A,A,A,A,P
+Vida silvestre,Comercial,Introducción de especies exóticas y no nativas,P,P,P,P,P,P,P,P
+Vida silvestre,Comercial,Producción de especies de flora silvestre,A,A,A,A,A,A,A,P
+Vida silvestre,Comercial,Extracción de especies,P,A,P,P,P,P,P,P
+Vida silvestre,Investigación,Reintroducción de especies nativas,A,A,A,A,A,A,A,A
+Vida silvestre,Investigación,Colecta de ejemplares o partes de organismos y manejo de poblaciones,A,A,A,A,A,A,A,A
+Turístico,Ecoturismo,Senderos interpretativos,A,A,A,A,A,A,A,A
+Turístico,Ecoturismo,Palapa para venta de comida y artesanías,P,A,A,A,A,A,A,P
+Turístico,Recreación y deporte,Campismo,A,A,A,A,A,A,A,A
+Turístico,Recreación y deporte,Prácticas en vehículos motorizados,P,A,P,P,P,P,P,P
+Turístico,Recreación y deporte,Ferias y exposiciones,P,A,A,P,P,P,P,P
+Turístico,Recreación y deporte,Ciclismo de montaña,A,A,A,A,A,A,A,A
+Turístico,Recreación y deporte,Alpinismo,A,A,A,A,A,A,A,A
+Turístico,Recreación y deporte,"Ejercicio al aire libre (carreras, caminata, etc.)",A,A,A,A,A,A,A,A
+Turístico,Recreación y deporte,Paseos a caballo,A,A,A,A,A,A,A,A
+Turístico,Recreación y deporte,Equitación,P,A,A,P,P,P,P,P
+Turístico,Recreación y deporte,Motocross,P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Manejo de residuos,Disposición de aguas residuales,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Manejo de residuos,Confinamiento y procesamiento de deshechos orgánicos e inorgánicos,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Manejo de residuos,Letrinas en construcciones no habitacionales,A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Manejo de residuos,Tiro de deshechos sólidos y de construcción,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Captación y aprovechamiento de agua pluvial,A,A,A,A,A,P,A,P
+Infraestructura y  Servicios,Redes e instalaciones,"Entubamiento, desviación, contaminación y obstrucción de cauces y ríos",P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Desecamiento y contaminación de manantiales y humedales,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Estanques,A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,Canales,A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,"Mantenimiento y rehabilitación de caminos, brechas y senderos",A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,"Mantenimiento de redes comunicación, eléctricas y telecomunicaciones",A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,Mantenimiento de redes sanitaria e hidráulica,A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,Construcción de caminos y brechas,A,A,A,A,A,P,A,P
+Infraestructura y  Servicios,Redes e instalaciones,"Construcción redes de comunicación, eléctricas y telecomunicaciones",A,A,A,A,A,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Construcción de red sanitaria,A,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Construcción de red hidráulica,A,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,"Viveros, invernaderos, instalaciones hidropónicas y vivarios",A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,"Potreros, establos y corrales",P,A,A,A,A,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Torres y casetas de vigilancia,A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,"Pistas de aterrizaje, helipuertos, central de maquinaria y vehículos",P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Depósitos de combustible,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Area para estacionamientos sin pavimentación,P,A,A,A,P,A,A,P
+Infraestructura y  Servicios,Redes e instalaciones,Centros de transformación agroindustrial,P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,"Centros, laboratorios de investigación y campos experimentales",A,A,A,A,A,P,A,P
+Infraestructura y  Servicios,Redes e instalaciones,Centros de decomiso de vida silvestre,A,A,A,A,A,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Centros de educación ambiental,A,A,A,A,A,P,A,P
+Infraestructura y  Servicios,Redes e instalaciones,Centros de capacitación y adiestramiento,P,A,A,A,A,P,A,P
+Infraestructura y  Servicios,Redes e instalaciones,"Centros de espectáculos, exposiciones, recreativos y campestres",P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Campos deportivos,P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Clubs campestres,P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Campos de Golf,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Aserraderos,P,A,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Almacenamiento y centros de acopio,P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Abrevaderos,A,A,A,A,A,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Rastros,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Silos y hornos forrajeros,P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,"Jardines botánicos, zoológicos y acuarios",A,A,A,A,A,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Estaciones metereológicas,A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,Albergues,A,A,A,A,A,A,A,A
+Infraestructura y  Servicios,Redes e instalaciones,Lienzos charros y pistas de equitación,P,A,A,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Campos de tiro,P,P,P,P,P,P,P,P
+Infraestructura y  Servicios,Redes e instalaciones,Centros de socorro y central de ambulancias y bomberos,A,A,A,P,P,P,A,P
+Infraestructura y  Servicios,Redes e instalaciones,Pistas y ciclopistas,P,A,A,P,P,P,P,P
+Minería,Extracción de materiales pétreos,Para fines comerciales,P,P,P,P,P,P,P,P
+Minería,Extracción de materiales pétreos,Para obras de conservación y retención de suelo y agua y uso domestico,A,A,A,A,A,A,A,A
+

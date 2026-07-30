@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+# Vite builds to docs/ (see vite.config.js) and CI regenerates it on deploy,
+# so the build artifact should not be versioned.
+docs/
+dist/
+dist-ssr/
+*.local
+
+# Environment variables (never commit real tokens/keys)
+.env
+.env.local
+.env.*.local
+
+# Large source documents (keep out of git; store externally)
+*.pdf
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Test / coverage
+coverage/
